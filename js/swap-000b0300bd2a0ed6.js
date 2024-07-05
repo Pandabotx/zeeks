@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8503],{88055:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/swap",function(){return u(18717)}])}},function(n){n.O(0,[3662,6466,1924,129,8260,7115,2580,5023,244,8705,8751,1467,1117,3854,9774,2888,179],function(){return n(n.s=88055)}),_N_E=n.O()}]);
+//# sourceMappingURL=swap-000b0300bd2a0ed6.js.map
